@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://iconduck.com/emojis/301423/face-blowing-a-kiss"
           target="_blank"
           rel="noopener noreferrer"
         >
