@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anilao-system/static/css/main.3d052cc4.css",
+    "main.js": "/anilao-system/static/js/main.559544c6.js",
+    "static/js/453.f2639912.chunk.js": "/anilao-system/static/js/453.f2639912.chunk.js",
+    "static/media/logo.svg": "/anilao-system/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/anilao-system/index.html",
+    "main.3d052cc4.css.map": "/anilao-system/static/css/main.3d052cc4.css.map",
+    "main.559544c6.js.map": "/anilao-system/static/js/main.559544c6.js.map",
+    "453.f2639912.chunk.js.map": "/anilao-system/static/js/453.f2639912.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d052cc4.css",
+    "static/js/main.559544c6.js"
+  ]
+}
